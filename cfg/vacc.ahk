@@ -1,4 +1,4 @@
-Shift::
+g::
 	send {2 down}
 	sleep 35
 	send {2 up}
